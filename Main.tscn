@@ -38,3 +38,5 @@ margin_left = 16.0
 margin_top = 7.0
 margin_right = 419.0
 margin_bottom = 237.0
+focus_mode = 2
+selection_enabled = true
